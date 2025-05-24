@@ -110,3 +110,6 @@ Este projeto consiste em uma aplicação desktop desenvolvida com **C#** e **Win
     - Código refatorado em camadas
     - Separação de formulários
     - Funções de inserção, pesquisa, alteração e exclusão
+
+  ### Observações
+  - Removi as opções "Alterar" e "Excluir" do menu porque essas funcionalidades já estão incluídas no formulário "Pesquisar" (FormBuscar). Dessa forma, tudo ficou centralizado em um único lugar, evitando formulários repetidos e deixando o sistema mais simples e funcional.
