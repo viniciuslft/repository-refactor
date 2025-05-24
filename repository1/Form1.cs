@@ -22,5 +22,12 @@ namespace repository1
             FormInserir FInserir = new FormInserir();
             FInserir.Show();
         }
+
+        private void pesquisarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormBuscar form = new FormBuscar();
+            form.Show();
+        }
+
     }
 }
