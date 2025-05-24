@@ -87,11 +87,6 @@ Este projeto consiste em uma aplicação desktop desenvolvida com **C#** e **Win
 4. Pressione F5 para executar a aplicação.
 5. Use o menu Clientes > Inserir para adicionar registros e Clientes > Pesquisar para editar ou excluir.
 
-7. Inicie o servidor backend:
-   ```bash
-   node index.js
-   ```
-
 ### Organização do Projeto
   ```bash
     repository1/
