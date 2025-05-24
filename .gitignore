@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.vsidx
+*.vssscc
+*.cache
+*.dbmdl
+*.pdb
+*.log
+*.tmp
+*.bak
